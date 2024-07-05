@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elsa Mundi Raswati</h1>
-<h3 align="center">I am studying in University Muhammadiyah Jakarta and i'm also interested in Machine Learning,Database such as Data Analysts,Data science,beside that i am also interested in Frontend and UI/UX</h3>
+<h3 align="center">I am studying in University Muhammadiyah Jakarta and i'm  interested in Machine Learning,Database such as Data Analysts,Data science,beside that i am also interested in Frontend and UI/UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaamundi&label=Profile%20views&color=0e75b6&style=flat" alt="elsaamundi" /> </p>
 
